@@ -1,3 +1,5 @@
+
+![eu](https://github.com/user-attachments/assets/af6a8de0-29d6-4e38-a4f0-6ec82fee63b4)
 ## Introdução
 Meu nome é Bruno Silvério, tenho 21 anos e, desde 2019, quando criei meu primeiro "Hello world" em Python no IFSP de Jacareí, me interessei pelo mundo do desenvolvimento de software. Desde então, busquei aprimorar meus conhecimentos através da realização de projetos, tentando aplicar o mais cedo possível qualquer novo aprendizado.
 
