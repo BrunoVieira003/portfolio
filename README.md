@@ -35,9 +35,9 @@ Atualmente, busco oportunidades para ingressar no mercado de desenvolvimento de 
 - Linux
 
 ## Meus projetos
-| Período              | Nome do projeto | Descrição do projeto                                    | Link do repositório |
-|----------------------|-----------------|---------------------------------------------------------|:-------------------:|
-| 1º Semestre (2023-1) | Scrum Academy   | Plataforma de aprendizado Scrum                         |          --         |
-| 2º Semestre (2023-2) | ParrotAI        | ChatBot empresarial com IA                              |          --         |
-| 3º Semestre (2024-1) | SalesDash       | Dashboard complexo para exibição e cálculo de comissões |          --         |
-| 4º Semestre (2024-2) | Logflow         | Controle e medição de atendimento de ordens de serviço  |          --         |
+| Período              | Descrição do projeto                                    | Link                |
+|----------------------|---------------------------------------------------------|:-------------------:|
+| 1o Semestre (2023-1) | Plataforma de aprendizado Scrum                         |[link](https://github.com/BrunoVieira003/portfolio/blob/master/projetos/Primeiro%20Semestre%20(2023-1).md)         |
+| 2o Semestre (2023-2) | ChatBot empresarial com IA                              |          --         |
+| 3o Semestre (2024-1) | Dashboard complexo para exibição e cálculo de comissões |          --         |
+| 4o Semestre (2024-2) | Controle e medição de atendimento de ordens de serviço  |          --         |
