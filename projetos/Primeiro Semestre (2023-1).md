@@ -9,6 +9,17 @@ Como solução, minha equipe desenvolveu uma plataforma web de aprendizado sobre
 
 [GIT](https://github.com/ColossusAPI/ScrumAcademy)
 
+<details>
+  <summary>Demonstração da aplicação</summary>
+  <p align="center">
+    <img
+    src="https://github.com/BrunoVieira003/ScrumAcademy/raw/main/API%20imagens/videoapi.gif"
+    alt="foto"
+    style="width: 90%; border-radius: 2%;"
+    />
+  </p>
+</details>
+
 ## 🧰 Tecnologias utilizadas
 - HTML - para construção das páginas da plataforma
 - CSS - para estilização das páginas
