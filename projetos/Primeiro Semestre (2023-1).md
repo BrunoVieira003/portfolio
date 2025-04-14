@@ -17,7 +17,9 @@ Como solução, minha equipe desenvolveu uma plataforma web de aprendizado sobre
 - Flask (Python) - para roteamento das páginas
 
 ## Contribuições pessoais
-Nesse projeto atuei como Scrum Master e, além de monitorar o fluxo de trabalho durante as sprints, fui responsável pela criação do design dos cards em diversos módulos e o desenvolvimento da página Materiais Extras, tanto de seus conteúdos quanto seu código.
+Neste projeto, atuei como Scrum Master, exercendo um papel central na organização e acompanhamento do fluxo de trabalho ao longo das sprints. Além das responsabilidades de gestão ágil, contribuí ativamente no design visual da plataforma, criando os cards utilizados em diversos módulos do sistema. Fui também o principal responsável pelo desenvolvimento da página Materiais Extras, onde reuni arquivos úteis para o aprendizado do usuário, como modelos de burndown e backlog.
+
+Outro ponto de destaque foi a implementação da responsividade em páginas essenciais como Home, Quem Somos, Materiais Extras, páginas do questionário e componentes estruturais como a navbar e o footer, utilizando componentes do Bootstrap e CSS. Essa iniciativa garantiu que a plataforma fosse acessível e funcional em dispositivos de diferentes tamanhos de tela, atendendo diretamente a um dos requisitos prioritários definidos pela empresa parceira (Fatec).
 
 ### Hard Skills
 Durante esse projeto, exercitei as seguintes Hard Skills:
