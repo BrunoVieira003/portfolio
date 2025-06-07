@@ -2,7 +2,7 @@
 O projeto desenvolvido no quarto semestre teve como empresa parceira a JJM Log (atualmente NEWE Log), que atua no ramo de logística de transporte de cargas. [Site da empresa](https://newelog.com.br)
 
 ## 🔍 Problema
-O problema apresentado consistia na dificuldade em instruir novos funcionários a processos da empresa ao mesmo tempo em que ela tinha dificuldade em rastrear as etapas de um atendimento, dificultando a análise de desempenho dos times e a introdução de novos membros.
+O problema apresentado consistia na dificuldade em rastrear as etapas de um atendimento, tornando complexa a análise de desempenho dos times e a introdução de novos membros aos processos da empresa.
 
 ## 💡 Solução
 Como solução, minha equipe desenvolveu um sistema que permite acompanhar o processo de diversas ordens de serviço visualizando prazo, data de início, responsável, entre outras informações, passando por diversos setores. Através desse acompanhamento, o sistema é capaz de gerar estatísticas que auxiliam na análise de desempenho da empresa.
