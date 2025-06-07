@@ -45,7 +45,7 @@ Atualmente, busco oportunidades para ingressar no mercado de desenvolvimento de 
 ## 🚀 Meus projetos
 | Período              | Descrição do projeto                                    | Link                |
 |----------------------|---------------------------------------------------------|:-------------------:|
-| 1o Semestre (2023-1) | Plataforma de aprendizado Scrum                         |[link](https://github.com/BrunoVieira003/portfolio/blob/master/projetos/Primeiro%20Semestre%20(2023-1).md)         |
-| 2o Semestre (2023-2) | ChatBot empresarial com IA                              |[link](https://github.com/BrunoVieira003/portfolio/blob/master/projetos/Segundo%20Semestre%20(2023-2).md)         |
-| 3o Semestre (2024-1) | Dashboard complexo para exibição e cálculo de comissões |          --         |
+| 1o Semestre (2023-1) | Plataforma de aprendizado Scrum                         |[link](<projetos/Primeiro Semestre (2023-1).md>)         |
+| 2o Semestre (2023-2) | ChatBot empresarial com IA                              |[link](<projetos/Segundo Semestre (2023-2).md>)         |
+| 3o Semestre (2024-1) | Dashboard complexo para exibição e cálculo de comissões |[link](<projetos/Terceiro Semestre (2024-1).md>)         |
 | 4o Semestre (2024-2) | Controle e medição de atendimento de ordens de serviço  |          --         |
