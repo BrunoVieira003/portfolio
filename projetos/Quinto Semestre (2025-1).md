@@ -12,11 +12,11 @@ Como solução, minha equipe desenvolveu um sistema de reembolso corporativo ond
 <details>
   <summary>Demonstração da aplicação</summary>
   <p>Clique nas imagens para ver os vídeos de demonstração Mobile e Web</p>
-  <a href="https://www.youtube.com/watch?v=D8LDeAe5Wgo" target="_blank">
-  <img src="../docs/images/API-5_thumb-mobile.jpg" alt="Assista ao vídeo" />
+  <a href="https://drive.google.com/file/d/1HBDjYvhVGboCoM4Exfvte7C8HXG5gqei/view?usp=sharing" target="_blank">
+  <img src="../docs/images/API-5_thumb-mobile.png" alt="Assista ao vídeo" />
 
-  <a href="https://www.youtube.com/watch?v=D8LDeAe5Wgo" target="_blank">
-  <img src="../docs/images/API-5_thumb-web.jpg" alt="Assista ao vídeo" />
+  <a href="https://drive.google.com/file/d/1M2Z-_GaFNL36fPYcajl-Kc_4Xe1xrJBu/view?usp=sharing" target="_blank">
+  <img src="../docs/images/API-5_thumb-web.png" alt="Assista ao vídeo" />
 </a>
 
 </details>
