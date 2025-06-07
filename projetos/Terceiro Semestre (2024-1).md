@@ -22,16 +22,16 @@ Como solução, minha equipe desenvolveu um Dashboard de Comissões de Vendas qu
 - Node.js - para execução da aplicação
 - Express - para construção da API / backend
 - React - para construção das páginas (frontend)
-- Typescript - para tipagem de código com Javascript
+- Typescript - para tipagem de código com JavaScript
 - CSS - para estilização das páginas
 - PostgreSQL - para armazenamento dos dados
 - Swagger - para documentação do backend
 - Git e Github - para versionamento do código
 
 ## 🧑‍💻 Contribuições pessoais
-Neste projeto, atuei como Scrum Master, onde fui responsável pela organização e acompanhamento do fluxo de trabalho ao longo das sprints. Com o uso do burndown, fui capaz de direcionar minha ajuda à tarefas que poderiam prejudicar as entregas das sprints. Além dessas responsabilidades, fui responsável pela implementação de diversos filtros na parte de backend que forneciam mais opções de exibição de resultados na aplicação.
+Neste projeto, atuei como Scrum Master, onde fui responsável pela organização e acompanhamento do fluxo de trabalho ao longo das sprints. Com o uso do burndown, fui capaz de direcionar minha ajuda às tarefas que poderiam prejudicar as entregas das sprints. Além dessas responsabilidades, fui responsável pela implementação de diversos filtros na parte de backend que forneciam mais opções de exibição de resultados na aplicação.
 
-Além disso, fui o responsável pela implementação do Swagger como ferramenta de documentação dos endpoints do backend. Essa documentação permitiu que membros da equipe que realizavam tarefas relacionadas ao frontend, pudessem consultar o funcionamento do backend de maneira prática, podendo inclusive testar as requisições, tornando o desenvolvimento frontend mais produtivo.
+Além disso, fui o responsável pela implementação do Swagger como ferramenta de documentação dos endpoints backend. Essa documentação permitiu que membros da equipe que realizavam tarefas relacionadas ao frontend, pudessem consultar o funcionamento do backend de forma prática, podendo inclusive testar as requisições, tornando o desenvolvimento do frontend mais produtivo.
 
 
 ### 🔧 Hard Skills
@@ -46,4 +46,4 @@ Durante esse projeto, exercitei as seguintes Hard Skills:
 - Git e Github - Uso com autonomia;
 
 ### 🗣️ Soft Skills
-Durante o projeto, mantive uma comunicação constante com a equipe para compreender melhor as dificuldades enfrentadas durante a implementação. A decisão de implementar o Swagger, citado anteriormente, surgiu a partir da observação de que os desenvolvedores do frontend tinham dificuldade em entender como utilizar a API do backend, o que impactava a produtividade.
+Durante o projeto, mantive uma comunicação constante com a equipe para compreender melhor as dificuldades enfrentadas na implementação. A decisão de implementar o Swagger, citado anteriormente, surgiu a partir da observação de que os desenvolvedores do frontend tinham dificuldade em entender como utilizar a API do backend, o que impactava a produtividade.
