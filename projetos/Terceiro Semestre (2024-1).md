@@ -11,9 +11,10 @@ Como solução, minha equipe desenvolveu um Dashboard de Comissões de Vendas qu
 
 <details>
   <summary>Demonstração da aplicação</summary>
-  <p align="center">
-    
-  </p>
+  <a href="https://drive.google.com/file/d/1b94GKsdwIGHcJ9YA6HmEVndtrlcW9O25/view?usp=sharing" target="_blank">
+  <img src="docs/API-3_thumb.png" alt="Assista ao vídeo" />
+</a>
+
 </details>
 
 ## 🧰 Tecnologias utilizadas
