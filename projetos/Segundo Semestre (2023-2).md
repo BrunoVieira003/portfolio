@@ -5,7 +5,7 @@ O projeto desenvolvido no segundo semestre teve como empresa parceira a própria
 O problema apresentado consistia na demora para consulta de informações contidas em documentos da empresa como relatórios, manuais, normas, entre outros. 
 
 ## 💡 Solução
-Como solução, minha equipe desenvolveu um chatbot empresarial capaz de receber documentos em PDF e TXT e responder perguntas baseadas nesses documentos, de maneira que um funcionário poderia rapidamente consultar uma norma ou resultado de um relatório
+Como solução, minha equipe desenvolveu um chatbot empresarial capaz de receber documentos em PDF e TXT e responder perguntas baseadas nesses documentos, de maneira que um funcionário poderia rapidamente consultar uma norma ou resultado de um relatório.
 
 [GIT](https://github.com/C0demain/ParrotAI)
 
@@ -35,6 +35,7 @@ Outro ponto de destaque foi a implementação de um método para navegação ent
 ### 🔧 Hard Skills
 Durante esse projeto, exercitei as seguintes Hard Skills:
 - Java - Uso com autonomia;
+- Gradle - Uso com ajuda;
 - MySQL - Uso com ajuda;
 - Git e Github - Uso com autonomia;
 

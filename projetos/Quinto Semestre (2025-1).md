@@ -24,6 +24,7 @@ Como solução, minha equipe desenvolveu um sistema de reembolso corporativo ond
 ## 🧰 Tecnologias utilizadas
 - React Native + Expo - para construção do aplicativo mobile
 - Next.js + React - para construção do backoffice web
+- Typescript - para tipagem de código com Javascript
 - TailwindCSS - para estilização tanto no mobile quanto no web
 - NestJS - para construção da API / backend
 - MongoDB - para armazenamento de dados
@@ -33,13 +34,14 @@ Como solução, minha equipe desenvolveu um sistema de reembolso corporativo ond
 ## 🧑‍💻 Contribuições pessoais
 Neste projeto, atuei como desenvolvedor, contribuindo ativamente na implementação de funcionalidades ao longo das sprints. Desenvolvi a listagem de solicitações e a visualização de reembolsos tanto no backoffice quanto no aplicativo mobile, incluindo recursos de edição e exclusão.
 
-Implementei também a busca por nome ou código da solicitação, com filtros adicionais, integrando as soluções desde o backend até a interface web e mobile. Fui responsável pelas regras de controle relacionadas ao status das solicitações, como restringir edições apenas a itens no status "Rascunho"
+Implementei também a busca por nome ou código da solicitação, com filtros adicionais, integrando as soluções desde o backend até a interface web e mobile. Fui responsável pelas regras de controle relacionadas ao status das solicitações, como restringir edições apenas a itens no status "Rascunho".
 
 
 ### 🔧 Hard Skills
 Durante esse projeto, exercitei as seguintes Hard Skills:
 - React Native + Expo - Uso com ajuda;
 - Next.js + React - Uso com autonomia;
+- Typescript - Uso com autonomia;
 - TailwindCSS - Uso com autonomia;
 - NestJS - Uso com autonomia;
 - MongoDB - Uso com ajuda;

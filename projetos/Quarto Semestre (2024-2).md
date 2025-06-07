@@ -23,6 +23,7 @@ Como solução, minha equipe desenvolveu um sistema que permite acompanhar o pro
 - NestJS - para construção da API / backend
 - React - para construção das páginas (frontend)
 - Next.js - para melhor organização e roteamento das páginas
+- Typescript - para tipagem de código com Javascript
 - TailwindCSS - para estilização das páginas
 - PostgreSQL - para armazenamento dos dados
 - Swagger - para documentação do backend
@@ -41,6 +42,7 @@ Durante esse projeto, exercitei as seguintes Hard Skills:
 - NestJS - Uso com autonomia;
 - React - Uso com autonomia;
 - Next.js - Uso com ajuda;
+- Typescript - Uso com autonomia;
 - TailwindCSS - Uso com autonomia;
 - PostgreSQL - Uso com ajuda;
 - Swagger - Uso com autonomia;

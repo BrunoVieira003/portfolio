@@ -22,6 +22,7 @@ Como solução, minha equipe desenvolveu um Dashboard de Comissões de Vendas qu
 - Node.js - para execução da aplicação
 - Express - para construção da API / backend
 - React - para construção das páginas (frontend)
+- Typescript - para tipagem de código com Javascript
 - CSS - para estilização das páginas
 - PostgreSQL - para armazenamento dos dados
 - Swagger - para documentação do backend
@@ -38,6 +39,7 @@ Durante esse projeto, exercitei as seguintes Hard Skills:
 - Node.js - Uso com autonomia;
 - Express - Uso com autonomia;
 - React - Uso com autonomia;
+- Typescript - Uso com autonomia;
 - CSS - Uso com autonomia;
 - PostgreSQL - Uso com ajuda;
 - Swagger - Uso com ajuda;
