@@ -11,7 +11,7 @@ Como solução, minha equipe desenvolveu um sistema que permite acompanhar o pro
 
 <details>
   <summary>Demonstração da aplicação</summary>
-  Clique na imagem para ver o vídeo
+  <p>Clique na imagem para ver o vídeo</p>
   <a href="https://www.youtube.com/watch?v=D8LDeAe5Wgo" target="_blank">
   <img src="../docs/images/API-4_thumb.jpg" alt="Assista ao vídeo" />
 </a>
