@@ -13,7 +13,7 @@ Como solução, minha equipe desenvolveu um chatbot empresarial capaz de receber
   <summary>Demonstração da aplicação</summary>
   <p align="center">
     <img
-    src="https://github.com/BrunoVieira003/portfolio/blob/master/docs/images/API-2_demo.gif"
+    src="../docs/images/API-2_demo.gif"
     alt="foto"
     style="width: 90%; border-radius: 2%;"
     />
