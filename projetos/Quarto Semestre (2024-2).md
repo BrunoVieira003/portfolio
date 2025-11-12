@@ -31,9 +31,11 @@ Como solução, minha equipe desenvolveu um sistema que permite acompanhar o pro
 - Git e Github - para versionamento do código
 
 ## 🧑‍💻 Contribuições pessoais
-Neste projeto, atuei como Product Owner, sendo responsável pelo contato com o cliente, esclarecimento de dúvidas do time e proposição de soluções. Por meio da construção e organização do backlog, levantei os requisitos e funcionalidades essenciais — como, por exemplo, um dashboard de tarefas com contagem de pendentes, atrasadas e concluídas. Priorizei os itens com base na importância para o cliente e defini sua distribuição ao longo das sprints.
+Neste projeto, atuei como Product Owner, sendo responsável pelo contato direto com o cliente, esclarecimento de dúvidas do time e proposição de soluções. Conduzi o levantamento de requisitos e organizei o backlog com base nas prioridades do negócio, definindo as funcionalidades essenciais — como o dashboard de tarefas com contagem de pendentes, atrasadas e concluídas — e planejando sua distribuição ao longo das sprints.
 
-Diante de mudanças frequentes nas etapas de atendimento trazidas pelo cliente, propus e implementei uma funcionalidade que permite aos administradores configurar processos personalizados por meio de templates com diferentes etapas e tarefas. Essa solução tornou a aplicação flexível o suficiente para atender múltiplos fluxos da empresa sem exigir alterações no código.
+Além da atuação como PO, também contribuí tecnicamente no desenvolvimento do sistema. Modelei e implementei parte das entidades relacionadas às ordens de serviço e etapas de processo, utilizando o TypeORM para o mapeamento objeto-relacional. Participei da definição da arquitetura de módulos e da criação de endpoints REST documentados com Swagger, garantindo integração fluida entre o backend e o frontend.
+
+Durante o desenvolvimento, o cliente passou por mudanças frequentes nos processos de atendimento, o que exigiu adaptações constantes. Identificando essa necessidade, propus e implementei a funcionalidade de templates de processos, que permite aos administradores criarem e reutilizarem fluxos personalizados com diferentes etapas e tarefas, conforme necessidade através de um usuário adminstrador. Essa solução tornou o sistema altamente flexível, permitindo que a empresa adicionasse novos fluxos de trabalho de forma autônoma — algo essencial no momento de reestruturação interna e externa pela qual a empresa estava passando.
 
 
 ### 🔧 Hard Skills
