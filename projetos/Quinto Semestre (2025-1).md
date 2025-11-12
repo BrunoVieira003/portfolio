@@ -34,7 +34,7 @@ Como solução, minha equipe desenvolveu um sistema de reembolso corporativo ond
 ## 🧑‍💻 Contribuições pessoais
 Neste projeto, atuei como desenvolvedor, contribuindo ativamente na implementação de funcionalidades ao longo das sprints. Desenvolvi a listagem de solicitações e a visualização de reembolsos tanto no backoffice web quanto no aplicativo mobile, incluindo recursos de edição e exclusão.
 
-Implementei também a busca por nome ou código da solicitação, com filtros adicionais, integrando as soluções passando pelo backend até a interface web e mobile. Fui responsável pelas regras de controle relacionadas ao status das solicitações, como restringir edições apenas a itens no status "Rascunho".
+Propûs também a inclusão do tipo "Rascunho" aos tipos de solicitações, visando permitir ao usuário um maior controle antes de enviar a solicitação ao departamento responsável. Implementei também a busca por nome ou código da solicitação, com filtros adicionais, integrando as soluções passando pelo backend até a interface web e mobile. Fui responsável pelas regras de controle relacionadas ao status das solicitações, como restringir edições apenas a itens no status "Rascunho".
 
 
 ### 🔧 Hard Skills
