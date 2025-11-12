@@ -52,4 +52,6 @@ Durante esse projeto, exercitei as seguintes Hard Skills:
 - Git e Github - Uso com autonomia;
 
 ### 🗣️ Soft Skills
-Como Product Owner, exercitei habilidades como escuta ativa, comunicação clara e tomada de decisão centrada no cliente. Mesmo com mudanças frequentes, mantive o time alinhado e propus soluções que equilibravam valor de negócio com a capacidade de entrega do time — como a criação de uma funcionalidade que aumentou a autonomia do cliente sem gerar retrabalho constante da equipe de desenvolvimento.
+Durante o projeto, desenvolvi e exerci fortemente habilidades de comunicação, liderança, trabalho em equipe, adaptabilidade e resolução de problemas. Em um contexto de constantes mudanças por parte do cliente, mantive uma comunicação clara e objetiva tanto com o time quanto com os stakeholders, garantindo entendimento mútuo e reduzindo retrabalho. A escuta ativa foi essencial para compreender as reais necessidades do cliente e traduzi-las em soluções viáveis dentro das limitações técnicas e de tempo.
+
+Diante das alterações frequentes nos processos internos da empresa parceira, demonstrei adaptabilidade ao revisar prioridades e reorganizar o backlog de forma colaborativa com a equipe, conciliando expectativas e prazos. Além disso, a capacidade de resolução de problemas foi fundamental para transformar desafios em oportunidades, como na criação da funcionalidade de templates de processos — uma solução que uniu valor de negócio, flexibilidade e sustentabilidade técnica.
