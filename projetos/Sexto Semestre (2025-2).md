@@ -35,12 +35,22 @@ Como solução, minha equipe desenvolveu um agente conversacional especializado 
 - Git e Github - para versionamento do código
 
 ## 🧑‍💻 Contribuições pessoais
-🚧 A FAZER 🚧
+Neste projeto, atuei como desenvolvedor, contribuindo constantemente com funcionalidades focadas na experiência do usuário no frontend. Durante o desenvolvimento fui responsável por implementar proteções de acesso da interface garantindo que as informações sensíveis de saúde do paciente não sejam visualizadas indevidamente, baseadas em níveis de acesso (administrador ou paciente) e autenticação.
+
+Além disso, também implementei funcionalidades para edição e visualização manual de informações de saúde fornecidas na anamnese pelo paciente, garantindo possíveis correções, com autonomia do paciente, em caso de informações inseridas e/ou atualizadas equivocadamente pelo agente. O mesmo foi feito para o acompanhamento de refeições e alimentos, garantindo uma medida de correção direta e simples em caso de alucinação da IA ou outros possíveis problemas. Com isso em mente, também fui responsável pela visualização do administrador sobre os chats e informações de saúde dos pacientes, garantindo um melhor acompanhamento do funcionamento do agente e suas atuações.
 
 ### 🔧 Hard Skills
-🚧 A FAZER 🚧
 Durante este projeto, exercitei as seguintes Hard Skills:
-- (Tecnologia) - Uso com ajuda;
+- Vue + Nuxt - Uso com autonomia;
+- Typescript - Uso com autonomia;
+- TailwindCSS - Uso com autonomia;
+- Java + Spring Boot - Uso com ajuda;
+- PostgreSQL - Uso com ajuda;
+- Python - Uso com ajuda;
+- Google ADK - Uso com ajuda;
+- FastAPI - Uso com ajuda;
+- ChromaDB - Uso com ajuda;
+- Git e Github - Uso com autonomia;
 
 ### 🗣️ Soft Skills
 🚧 A FAZER 🚧
