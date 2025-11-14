@@ -1,5 +1,5 @@
 ## 🏢 Empresa parceira
-O projeto desenvolvido no quinto semestre teve como empresa parceira a Xertica.ai, que atua no ramo de desenvolvimento de soluções utilizando IA. [Site da empresa](https://www.gsw.com.br)
+O projeto desenvolvido no quinto semestre teve como empresa parceira a Xertica.ai, que atua no ramo de desenvolvimento de soluções utilizando IA. [Site da empresa](https://www.xertica.ai/pt-br)
 
 ## 🔍 Problema
 O problema apresentado consistia na dificuldade de fornecer um acompanhamento nutricional constante à um paciente de maneira personalizada e simplificada.
