@@ -50,4 +50,4 @@ Atualmente, busco oportunidades para ingressar no mercado de desenvolvimento de 
 | 3o Semestre (2024-1) | Dashboard complexo para exibição e cálculo de comissões |[link](<projetos/Terceiro Semestre (2024-1).md>)       |
 | 4o Semestre (2024-2) | Controle e medição de atendimento de ordens de serviço  |[link](<projetos/Quarto Semestre (2024-2).md>)         |
 | 5o Semestre (2025-1) | Controle de solicitação de reembolso corporativo        |[link](<projetos/Quinto Semestre (2025-1).md>)         |
-| 6o Semestre (2025-2) | -- | -- |
+| 6o Semestre (2025-2) | Agente conversacional especializado em nutrição         |[link](<projetos/Sexto Semestre (2025-2).md>)          |
