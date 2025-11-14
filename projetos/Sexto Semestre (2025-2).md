@@ -53,4 +53,4 @@ Durante este projeto, exercitei as seguintes Hard Skills:
 - Git e Github - Uso com autonomia;
 
 ### 🗣️ Soft Skills
-🚧 A FAZER 🚧
+Como desenvolvedor, mantive comunicação constante com os outros membros da equipe para manter uma boa integração entre as capacidades do agente e a experiência do usuário, garantindo que o usuário mantivesse a confiabilidade no sistema. Fui proativo em buscar exemplos de usabilidade em outras aplicações AI-first presentes no mercado para garantir uma usabilidade mais fluida e condizente com a experiência que usuário espera de uma aplicação chat com IA. Esses exemplos e melhorias foram constantemente discutidos com a equipe e, com autonomia, fui capaz de entregar uma melhor experiência ao paciente.
