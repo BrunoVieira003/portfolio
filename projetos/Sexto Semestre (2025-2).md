@@ -5,7 +5,7 @@ O projeto desenvolvido no sexto semestre teve como empresa parceira a Xertica.ai
 O empresa possuía um projeto que demandava uma solução que pudesse fornecer a pacientes de uma empresa de nutrição um atendimento personalizado e simples, de maneira mais automatizada e de fácil acesso, mas que ainda garantisse um atendimento preciso de acordo com as condições de saúde do paciente.
 
 ## 💡 Solução
-Como solução, minha equipe desenvolveu um agente conversacional especializado em nutrição, onde o paciente pode, através de um chat, receber orientações personalizadas de acordo com suas condições de saúde e objetivos, além de dietas personalizadas e acompanhamento semanal utilizando uma abordagem AI-first.
+Como solução, desenvolvemos um agente conversacional especializado em nutrição, onde o paciente pode, através de um chat, receber orientações personalizadas de acordo com suas condições de saúde e objetivos, além de dietas personalizadas e acompanhamento semanal utilizando uma abordagem AI-first.
 
 [GIT](https://github.com/C0demain/nutriXpert)
 
