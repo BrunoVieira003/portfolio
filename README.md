@@ -46,9 +46,9 @@ Atualmente, busco oportunidades para ingressar no mercado de desenvolvimento de 
 ## 🚀 Meus projetos
 | Período              | Descrição do projeto                                    | Link                |
 |----------------------|---------------------------------------------------------|:-------------------:|
-| 1o Semestre (2023-1) | Plataforma de aprendizado Scrum                         |[link](<projetos/Primeiro Semestre (2023-1).md>)       |
-| 2o Semestre (2023-2) | ChatBot empresarial com IA                              |[link](<projetos/Segundo Semestre (2023-2).md>)        |
-| 3o Semestre (2024-1) | Dashboard complexo para exibição e cálculo de comissões |[link](<projetos/Terceiro Semestre (2024-1).md>)       |
-| 4o Semestre (2024-2) | Controle e medição de atendimento de ordens de serviço  |[link](<projetos/Quarto Semestre (2024-2).md>)         |
-| 5o Semestre (2025-1) | Controle de solicitação de reembolso corporativo        |[link](<projetos/Quinto Semestre (2025-1).md>)         |
-| 6o Semestre (2025-2) | Agente conversacional especializado em nutrição         |[link](<projetos/Sexto Semestre (2025-2).md>)          |
+| 1º Semestre (2023-1) | Plataforma de aprendizado Scrum                         |[link](<projetos/Primeiro Semestre (2023-1).md>)       |
+| 2º Semestre (2023-2) | ChatBot empresarial com IA                              |[link](<projetos/Segundo Semestre (2023-2).md>)        |
+| 3º Semestre (2024-1) | Dashboard complexo para exibição e cálculo de comissões |[link](<projetos/Terceiro Semestre (2024-1).md>)       |
+| 4º Semestre (2024-2) | Controle e medição de atendimento de ordens de serviço  |[link](<projetos/Quarto Semestre (2024-2).md>)         |
+| 5º Semestre (2025-1) | Controle de solicitação de reembolso corporativo        |[link](<projetos/Quinto Semestre (2025-1).md>)         |
+| 6º Semestre (2025-2) | Agente conversacional especializado em nutrição         |[link](<projetos/Sexto Semestre (2025-2).md>)          |
