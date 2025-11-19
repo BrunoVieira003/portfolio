@@ -9,15 +9,11 @@ Como solução, desenvolvemos um agente conversacional especializado em nutriç�
 
 [GIT](https://github.com/C0demain/nutriXpert)
 
-🚧 A FAZER 🚧
 <details>
   <summary>Demonstração da aplicação</summary>
-  <p>Clique nas imagens para ver os vídeos de demonstração da aplicação</p>
-  <a href="https://drive.google.com/file/d/1HBDjYvhVGboCoM4Exfvte7C8HXG5gqei/view?usp=sharing" target="_blank">
-  <img src="../docs/images/API-5_thumb-mobile.png" alt="Assista ao vídeo" />
-
-  <a href="https://drive.google.com/file/d/1M2Z-_GaFNL36fPYcajl-Kc_4Xe1xrJBu/view?usp=sharing" target="_blank">
-  <img src="../docs/images/API-5_thumb-web.png" alt="Assista ao vídeo" />
+  <p>Clique na imagem para ver o vídeo de demonstração da aplicação</p>
+  <a href="https://drive.google.com/file/d/1yrMEe427b8veCaSCSqBffnHH3a21yh0p/view" target="_blank">
+  <img src="../docs/images/API-6_thumb.png" alt="Assista ao vídeo" />
 </a>
 
 </details>
